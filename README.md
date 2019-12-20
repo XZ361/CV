@@ -20,11 +20,11 @@
 
 **技术栈**
 
-`vue`、`vue-router`、`vuex`、`element-ui`、`webpack`、`es6`
+`vue`、`vue-router`、`vuex`、`element-ui`、`webpack`、`es6`、`nodejs`
 
 **项目源码**
 
-github.com/your-name， 点击查看效果预览
+https://wangxiaozhan.github.io/CV/， 点击查看效果预览
 
 
 ## 个人评价
