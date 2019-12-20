@@ -24,7 +24,8 @@
 
 **项目源码**
 
-https://wangxiaozhan.github.io/CV/， 点击查看效果预览
+https://wangxiaozhan.github.io/CV
+点击查看效果预览
 
 
 ## 个人评价
